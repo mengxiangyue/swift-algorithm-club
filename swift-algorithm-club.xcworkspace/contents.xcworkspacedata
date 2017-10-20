@@ -24,6 +24,9 @@
       location = "group:Algorithm Design.markdown">
    </FileRef>
    <FileRef
+      location = "group:Algorithm Design.zh_CN.markdown">
+   </FileRef>
+   <FileRef
       location = "group:Big-O Notation.markdown">
    </FileRef>
    <FileRef
