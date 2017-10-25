@@ -30,6 +30,9 @@
       location = "group:Big-O Notation.markdown">
    </FileRef>
    <FileRef
+      location = "group:Big-O Notation.zh_CN.markdown">
+   </FileRef>
+   <FileRef
       location = "group:.github/CONTRIBUTING.md">
    </FileRef>
    <FileRef
