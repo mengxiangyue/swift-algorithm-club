@@ -39,10 +39,19 @@
       location = "group:Under Construction.markdown">
    </FileRef>
    <FileRef
+      location = "group:Under Construction.zh_CN.markdown">
+   </FileRef>
+   <FileRef
       location = "group:What are Algorithms.markdown">
    </FileRef>
    <FileRef
+      location = "group:What are Algorithms.zh_CN.markdown">
+   </FileRef>
+   <FileRef
       location = "group:Why Algorithms.markdown">
+   </FileRef>
+   <FileRef
+      location = "group:Why Algorithms.zh_CN.markdown">
    </FileRef>
    <Group
       location = "container:"
