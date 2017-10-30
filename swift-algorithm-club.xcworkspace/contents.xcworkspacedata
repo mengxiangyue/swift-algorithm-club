@@ -18,6 +18,9 @@
       location = "group:README.markdown">
    </FileRef>
    <FileRef
+      location = "group:README.zh_CN.markdown">
+   </FileRef>
+   <FileRef
       location = "group:LICENSE.txt">
    </FileRef>
    <FileRef

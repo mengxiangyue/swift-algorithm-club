@@ -1,37 +1,39 @@
-# Why learn algorithms and data structures?
+#为什么要学习算法和数据结构？
 
-If you've been coding for while you may wonder what the point is of learning about algorithms and data structures, especially if you don't have a formal computer science or engineering background.
+如果您已经编码一段时间了，您可能会想知道学习算法和数据结构的重点是什么，尤其是如果您没有正式的计算机科学或者工程背景。
 
-After all, how often do you actually have to use a linked list or write your own sort routine when you're making apps? The answer is: almost never.
+毕竟，在制作应用程序的时候，您多久必须要使用一次链表或自己写排序程序呢？答案是：几乎没有。
 
-#### **However...**
+#### **然而...**
 
-Knowing a little bit about the strategies used by algorithms to solve tricky problems gives you ideas for improvements you can make to your own code.
+了解一些算法去解决棘手问题所用的策略，能够为您提供一些改进您自己所写代码的想法。
 
-Knowing more data structures than just the standard array and dictionary gives you a bigger collection of tools you can use to build your own apps.
+了解更多的数据结构，而不是仅限于标准的数组和字典，可以为你提供一个更加强大的工具集合，用于创建你自己的APP。
 
-It will make you a better developer! (And better developers make more $$$.)
+这将使你成为更好的开发者！（更好的开发者赚更多的钱 $$$。）
 
 #### Algorithms lets you build software you couldn't otherwise build
 
-There have been apps that I've been unable to create in the past because I got stuck on fundamental issues.
+有一些应用程序，我以前无法创建，因为我被困在一些基本的问题上。
 
-Often it was a matter of speed: I just couldn't make the program go fast enough. Thinking back on this now, I had chosen the wrong algorithms for these problems. If I had known more about the difference between **O(n)** and **O(n^2)**, then maybe I would have had better luck.
+通常是运行速度问题：我不能让程序运行的足够快。现在回想一下，我为这些问题选择了错误的算法。如果我了解更多关于 **O(n)** 和 **O(n^2)** 的区别，也许我会有更好的运气（方法）。
 
-Naive brute-force solutions work fine for small amounts of data, but sometimes you need to deal with lots of data. And then you need smarter algorithms.
+太天真了，暴力的解决方法在小数据量上能够工作良好，但是有时你需要处理大量的数据。然后你需要更加智能的算法。
 
-There were also times I wasn't able to solve my programming problems at all, not even slowly. I simply didn't know where to begin. Understanding a bit of algorithm theory gives you various tactics you can try.
+有好多次我根本没有能力去解决我的编程问题，甚至不能缓慢的解决。因为我根本不知道从哪里开始。了解一些算法的理论能够给我各种考验尝试的策略。
 
-#### Don't spend any time memorizing algorithms
+#### 不要花时间记忆算法
 
-That's not the point. Instead, try to understand how different algorithms approach different problems.
+这不是重点。相反，努力去理解不同的算法是怎样处理不同的问题，才是重点。
 
-Learn about techniques such as divide-and-conquer, dynamic programming, greedy algorithms. See what makes one approach slow and another fast, and learn what the tradeoffs are.
+了解分而治之、动态规划、贪心算法等技术。比较一些什么使得一种方法变得缓慢，而另一种更快，并且学会如何权衡。
 
-The key thing here is to get insight in how we can make computers do things.
+这里的关键是要了解我们如何使电脑做事情。
 
-#### It's not as scary as it sounds
+#### 它并不像听起来那么可怕
 
-A lot of algorithm textbooks start with a bunch of math. Truth is, the math is useful but most of the time you won't need it. So don't let that scare you. If you can write code, you can also understand all these fancy algorithms and data structures.
+很多的算法教科书都从一堆数学开始。实际情况是，数学是有用的，但是大部分情况下你不需要它。所以不要让那些吓到你。如果你能写代码，你就能够理解这些奇特的算法和数据结构。
 
-Trust me, algorithms are fun. :-)
+相信我，算法很有趣。:-)
+
+
