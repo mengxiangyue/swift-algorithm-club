@@ -4,11 +4,9 @@
 
 在这里你能发现流行的算法和数据结构，并且是使用每个人都喜欢的新语言 Swift 实现的，并且有它们如何工作的详细说明。
 
-If you're a computer science student who needs to learn this stuff for exams -- or if you're a self-taught programmer who wants to brush up on the theory behind your craft -- you've come to the right place!
-如果你是一个需要学习这些东西通过考试的计算机科学专业的学生 -- 如果你是一个 -- 你来对了地方。
+如果你是一个需要学习这些东西通过考试的计算机科学专业的学生 -- 或者如果你是一个自学成才的程序员，想要刷新你的技术背后的理论 -- 你来对了地方。
 
-The goal of this project is to **explain how algorithms work**. The focus is on clarity and readability of the code, not on making a reusable library that you can drop into your own projects. That said, most of the code should be ready for production use but you may need to tweak it to fit into your own codebase.
-这个项目的目的是**说明算法如何工作**。其关注点是代码逻辑清晰、易读，而不是去制作一个你加入你的项目就能重复使用的库。换句话说，
+这个项目的目的是**说明算法如何工作**。其关注点是代码逻辑清晰、易读，而不是去制作一个你加入你的项目就能重复使用的库。换句话说，大多数代码都应该可以用于生产，但是您可能需要调整它以适应您自己的代码库。
 
 代码基于 **Xcode 9** 和 **Swift 4**。我们将会保持更新至最新版本的Swift。
 
@@ -35,22 +33,22 @@ The goal of this project is to **explain how algorithms work**. The focus is on 
 - [插入排序 Insertion Sort](Insertion%20Sort/)
 - [二分查找 Binary Search](Binary%20Search/) and [二分搜索树 Binary Search Tree](Binary%20Search%20Tree/)
 - [归并排序 Merge Sort](Merge%20Sort/)
-- [Boyer-Moore string search](Boyer-Moore/)
+- [Boyer-Moore字符串搜索 Boyer-Moore string search](Boyer-Moore/)
 
 ## 算法
 
 ### 搜索
 
-- [Linear Search](Linear%20Search/). Find an element in an array.
-- [Binary Search](Binary%20Search/). Quickly find elements in a sorted array.
-- [Count Occurrences](Count%20Occurrences/). Count how often a value appears in an array.
-- [Select Minimum / Maximum](Select%20Minimum%20Maximum). Find the minimum/maximum value in an array.
-- [k-th Largest Element](Kth%20Largest%20Element/). Find the *k*-th largest element in an array, such as the median.
-- [Selection Sampling](Selection%20Sampling/). Randomly choose a bunch of items from a collection.
-- [Union-Find](Union-Find/). Keeps track of disjoint sets and lets you quickly merge them.
+- [线性查找 Linear Search](Linear%20Search/). 在数组中查找一个元素。
+- [二分查找 Binary Search](Binary%20Search/). 在已经排好序的数组中快速找到一个元素。
+- [统计出现次数 Count Occurrences](Count%20Occurrences/).  统计某个值在数组中出现的次数。
+- [选择最大/最小值 Select Minimum / Maximum](Select%20Minimum%20Maximum). 在数组中找到最大/最小值。
+- [第k大元素 k-th Largest Element](Kth%20Largest%20Element/). Find the *k*-th largest element in an array, such as the median.
+- [选择抽样 Selection Sampling](Selection%20Sampling/).  在集合中随机选择一堆元素。
+- [联合查找 Union-Find](Union-Find/). 跟踪不相交的集合，并让您快速合并。
 
 
-### String Search
+### 字符串查找 String Search 
 
 - [Brute-Force String Search](Brute-Force%20String%20Search/). A naive method.
 - [Boyer-Moore](Boyer-Moore/). A fast method to search for substrings. It skips ahead based on a look-up table, to avoid looking at every character in the text.
@@ -59,11 +57,11 @@ The goal of this project is to **explain how algorithms work**. The focus is on 
 - [Longest Common Subsequence](Longest%20Common%20Subsequence/). Find the longest sequence of characters that appear in the same order in both strings.
 - [Z-Algorithm](Z-Algorithm/). Finds all instances of a pattern in a String, and returns the indexes of where the pattern starts within the String.
 
-### Sorting
+### 排序 Sorting
 
 It's fun to see how sorting algorithms work, but in practice you'll almost never have to provide your own sorting routines. Swift's own `sort()` is more than up to the job. But if you're curious, read on...
 
-Basic sorts:
+基本排序：
 
 - [Insertion Sort](Insertion%20Sort/)
 - [Selection Sort](Selection%20Sort/)
